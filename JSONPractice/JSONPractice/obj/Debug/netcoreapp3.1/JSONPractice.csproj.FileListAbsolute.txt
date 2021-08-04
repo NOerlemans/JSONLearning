@@ -1,0 +1,13 @@
+C:\Users\Nathan's pc\Desktop\SummerProgramming\JSON\JSONLearning\JSONPractice\JSONPractice\bin\Debug\netcoreapp3.1\JSONPractice.exe
+C:\Users\Nathan's pc\Desktop\SummerProgramming\JSON\JSONLearning\JSONPractice\JSONPractice\bin\Debug\netcoreapp3.1\JSONPractice.deps.json
+C:\Users\Nathan's pc\Desktop\SummerProgramming\JSON\JSONLearning\JSONPractice\JSONPractice\bin\Debug\netcoreapp3.1\JSONPractice.runtimeconfig.json
+C:\Users\Nathan's pc\Desktop\SummerProgramming\JSON\JSONLearning\JSONPractice\JSONPractice\bin\Debug\netcoreapp3.1\JSONPractice.runtimeconfig.dev.json
+C:\Users\Nathan's pc\Desktop\SummerProgramming\JSON\JSONLearning\JSONPractice\JSONPractice\bin\Debug\netcoreapp3.1\JSONPractice.dll
+C:\Users\Nathan's pc\Desktop\SummerProgramming\JSON\JSONLearning\JSONPractice\JSONPractice\bin\Debug\netcoreapp3.1\JSONPractice.pdb
+C:\Users\Nathan's pc\Desktop\SummerProgramming\JSON\JSONLearning\JSONPractice\JSONPractice\obj\Debug\netcoreapp3.1\JSONPractice.csprojAssemblyReference.cache
+C:\Users\Nathan's pc\Desktop\SummerProgramming\JSON\JSONLearning\JSONPractice\JSONPractice\obj\Debug\netcoreapp3.1\JSONPractice.AssemblyInfoInputs.cache
+C:\Users\Nathan's pc\Desktop\SummerProgramming\JSON\JSONLearning\JSONPractice\JSONPractice\obj\Debug\netcoreapp3.1\JSONPractice.AssemblyInfo.cs
+C:\Users\Nathan's pc\Desktop\SummerProgramming\JSON\JSONLearning\JSONPractice\JSONPractice\obj\Debug\netcoreapp3.1\JSONPractice.csproj.CoreCompileInputs.cache
+C:\Users\Nathan's pc\Desktop\SummerProgramming\JSON\JSONLearning\JSONPractice\JSONPractice\obj\Debug\netcoreapp3.1\JSONPractice.dll
+C:\Users\Nathan's pc\Desktop\SummerProgramming\JSON\JSONLearning\JSONPractice\JSONPractice\obj\Debug\netcoreapp3.1\JSONPractice.pdb
+C:\Users\Nathan's pc\Desktop\SummerProgramming\JSON\JSONLearning\JSONPractice\JSONPractice\obj\Debug\netcoreapp3.1\JSONPractice.genruntimeconfig.cache

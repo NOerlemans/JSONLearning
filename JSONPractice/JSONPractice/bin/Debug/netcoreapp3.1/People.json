@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Nathan",
+    "Age": 23,
+    "Address": {
+      "Country": "Netherlands",
+      "Street": "SomeStreet",
+      "Housenumber": 123,
+      "Postcode": "InvalidPostcode"
+    }
+  },
+  {
+    "Name": "Another",
+    "Age": 99,
+    "Address": {
+      "Country": "Anywhere",
+      "Street": "SomeStreet",
+      "Housenumber": 321,
+      "Postcode": "6666AA"
+    }
+  }
+]
